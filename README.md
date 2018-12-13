@@ -10,3 +10,5 @@ I use web libraries:
 - Scikit-learn
 
 and the others you can check in the sourcecode.
+
+![alt text](https://github.com/vladipooh/University-s-major-recommender/blob/master/screencapture-file-C-Users-Pooh-Desktop-MBTI-XGB-form-form-html-2018-10-08-21_04_31.png)
